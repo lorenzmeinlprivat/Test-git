@@ -1,3 +1,5 @@
 hello = function(){
-  print("hello")
+  print("hello all")
+  
+  print("hello all too")
 }
